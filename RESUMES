@@ -1,0 +1,48 @@
+Nowadays, communication between information systems is a challenge for most industrial firms. 
+There are a lot of applications that require accessidence relationships. This comparison is based on the
+terminological system BACK used as a helping too role (behavior) level, or term value domain level.
+The semantic properties are added by means of a set of operators that we have defined. To find the
+correspondence relationships between sets of implicit properties of two terms, we use an heuristic
+[Larab and Benharkat, 1996] that we have defined to compute a value: "semantic measure". The semantic
+measure helps us to find the right nature of semantic relationships that could exist between the semantic
+property sets. The relationship between the semantic properties sets helps us to refine the correspondence
+relationship between terms of different terminologies.
+#
+The transformation of existing heterogeneous and local databases to meet diverse groups of applications
+or users need several global levels pere automatic extraction of such information. We will  present in
+this paper a framework that produces factual correspondences, and then use them for the merging process.
+Our aim is to minimize the administrator intervention. The system makes a proposal and the administrator
+is asked to confirm or refuse.
+#
+This paper presents the CASE:COOPE an object oriented method aimed at information 
+
+
+system design. This method is based on an event driven approach
+
+
+and integrates at an early stage new 
+
+
+technologies and models.
+
+
+This CASE integrates COOPE models, formalisms and inherent controls.
+
+
+The information system design is done via a Front End
+
+
+and Back End tools based on a repository.
+
+
+The CASE supports an incremental approach by means
+
+
+of an interactive building of the repository. 
+
+
+
+
+
+#
+
